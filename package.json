@@ -1,0 +1,13 @@
+{
+  "name": "feedback.froehlich.network",
+  "version": "1.0.0",
+  "description": "Personal feedback",
+  "scripts": {
+    "start": "serve src/"
+  },
+  "author": "froehlichA",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.1.1"
+  }
+}
